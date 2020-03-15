@@ -1,0 +1,4 @@
+*.swp
+
+# Ignore the extra directory
+extra

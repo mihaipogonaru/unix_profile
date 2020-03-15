@@ -1,0 +1,7 @@
+# Aliases
+
+alias lld='ls -alhd -F'
+
+alias update="sudo apt-get update"
+alias upgrade="sudo apt-get upgrade"
+alias sapt="sudo apt-get"

@@ -1,0 +1,3 @@
+# Globals
+
+export EDITOR=vim
